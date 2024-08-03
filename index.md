@@ -11,3 +11,8 @@ var Gatito = "Hello, i'm a funny cat!";
 ``` python
 var Gatito = "Hello, i'm a funny cat!";
 ```
+
+# Listado de cosas para hacer con el gatito
+- [X] Limpiar la caja
+- [ ] Comprarle mas comida
+- [ ] Cambiarle el agua
